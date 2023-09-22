@@ -1,6 +1,6 @@
 import { Brand, Cta, Navbar } from "./components"
 import { Footer, Blog, Possibility, Features, WhatGPT3, Header} from "./containers"
-import styles from './app.css'
+import './app.css'
 function App() {
   return (
     <div id="App">
